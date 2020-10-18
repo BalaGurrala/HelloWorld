@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello World...");
 		System.out.println("Test User...");
 		System.out.println("GitHub hook trigger for GITScm polling......");
+		System.out.println("GitHub hook trigger for GITScm polling......After Webhook Configuration in github site");
 
 	}
 
